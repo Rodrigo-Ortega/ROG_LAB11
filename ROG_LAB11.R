@@ -1,4 +1,4 @@
-# Hecho con gusto por Carla Carolina Pérez Hernández (UAEH)
+# Hecho con gusto por Rodrigo Ortega García
 
 # LABORATORIO - Tidy data -datos ordenados- PARTE 1,2 y 3.
 
